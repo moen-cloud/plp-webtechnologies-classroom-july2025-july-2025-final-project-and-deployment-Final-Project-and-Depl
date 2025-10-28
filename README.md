@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # My Multipage Website
 
 ## Purpose
@@ -17,6 +18,8 @@ Host on GitHub Pages, Netlify, or Vercel.
 ## Technologies Used
 HTML5, CSS3, JavaScript
 =======
+=======
+>>>>>>> edbf23e5300a04663c721a0d266e34fcb55bdae7
 # 📦 Final Assignment: Build, Organize, and Deploy a Multipage Website
 
 You're now ready to bring everything together—HTML, CSS, JavaScript, planning, structure, and deployment. This final project challenges you to **conceptualize, build, and deploy a multi-page website** that is responsive, interactive, and ready for the real world.
@@ -107,4 +110,7 @@ Deploy your project and confirm that:
 * Clean, well-organized, and commented code
 * Successful live deployment with a working link
 * Evidence of following best practices
+<<<<<<< HEAD
+>>>>>>> edbf23e5300a04663c721a0d266e34fcb55bdae7
+=======
 >>>>>>> edbf23e5300a04663c721a0d266e34fcb55bdae7
